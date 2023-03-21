@@ -4,6 +4,7 @@
 - 📫 How to reach me: email:panchaldarshan099@gmail.com | linkedin profile:https://www.linkedin.com/in/darshan-panchal-7784a122a
 - Hackerrank Profile:https://www.hackerrank.com/darshan02
 - LeetCode Profile: https://leetcode.com/panchaldar/
+- Resume: https://darshan02.hackerresume.io/cf3b353e-5e39-4395-96b4-5565b7fc3e01
 
 <!---
 Darshan016/Darshan016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
