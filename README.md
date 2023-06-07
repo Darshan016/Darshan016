@@ -1,12 +1,50 @@
-- 👋 Hi, I’m @Darshan016
-- 👀 I’m a Software Engineer specializing in java, springboot, microservices, Angular, Reactjs, TypeScript, js, Docker, Mysql and MongoDB.
-- 🌱 I’ve done bachelor's in Computer Science.
-- 📫 How to reach me: email:panchaldarshan099@gmail.com | linkedin profile:https://www.linkedin.com/in/darshan-panchal-7784a122a
-- Hackerrank Profile:https://www.hackerrank.com/darshan02
-- LeetCode Profile: https://leetcode.com/panchaldar/
-- Resume: https://darshan02.hackerresume.io/cf3b353e-5e39-4395-96b4-5565b7fc3e01
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!---
-Darshan016/Darshan016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">My name is Darshan and I'm a Software Engineer, from Mumbai,India.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning MERN Stack<br>🎯 Goals: To land an Entry-Level Developer role <br></p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angular logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongo logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/darshan-panchal-7784a122a/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a/>
+    <a href="https://www.hackerrank.com/darshan02?hr_r=1" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
+    <a href="https://leetcode.com/panchaldar/" target="_blank">
+  <img src="https://www.svgrepo.com/show/306328/leetcode.svg" width="52" height="40" alt="leetcode logo"  /></a>
+</div>
+
+###
