@@ -37,9 +37,10 @@
 </div>
 
 ###
+<h2>You can connect with me at</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/darshan-panchal-7784a122a/" target="#">
+  <a href="https://www.linkedin.com/in/darshan-panchal-7784a122a/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a/>
     <a href="https://www.hackerrank.com/darshan02?hr_r=1" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  /></a>
