@@ -33,11 +33,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongo logo"  />
 </div>
 
 ###
-<h2>You can connect with me at</h2>
+<h2>My socials:</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/darshan-panchal-7784a122a/" target="_blank">
