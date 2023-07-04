@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Technologies I'm familiar with</h2>
+<h2 align="left">Technologies I work with</h2>
 
 ###
 
@@ -36,6 +36,9 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongo logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  
 </div>
 
 ###
