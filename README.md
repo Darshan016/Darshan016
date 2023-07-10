@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning MERN Stack<br>🎯 Goals: To land an Entry-Level Developer role <br></p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning MERN Stack<br>🏢 Currently working as a Junior Software Engineer <br></p>
 
 ###
 
@@ -38,6 +38,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongo logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/django/django-plain-wordmark.svg" height="40" alt="django logo"  />
+  
+  
+  
   
 </div>
 
