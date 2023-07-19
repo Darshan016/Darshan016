@@ -42,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/django/django-plain-wordmark.svg" height="40" alt="django logo"  />
+   <img width="12" />
   
   
   
