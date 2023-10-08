@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning MERN Stack<br>🏢 Currently working as a Junior Software Engineer <br></p>
+<p align="left">✨ Creating bugs since 2019<br>🏢 Currently working as a Junior Software Engineer <br></p>
 
 ###
 
@@ -43,6 +43,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/django/django-plain-wordmark.svg" height="40" alt="django logo"  />
    <img width="12" />
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/apachekafka/apachekafka-original.svg" height="40" alt="django logo"  />
+   <img width="12" />
+   
   
   
   
