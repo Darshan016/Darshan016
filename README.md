@@ -45,6 +45,8 @@
    <img width="12" />
    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/apachekafka/apachekafka-original.svg" height="40" alt="django logo"  />
    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/ubuntu/ubuntu-plain.svg" height="40" alt="django logo"  />
+   <img width="12" />
    
   
   
