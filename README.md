@@ -47,6 +47,10 @@
    <img width="12" />
     <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/ubuntu/ubuntu-plain.svg" height="40" alt="django logo"  />
    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
+   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/react/react-original.svg" height="40" alt="react logo"  />
+   <img width="12" />
    
   
   
